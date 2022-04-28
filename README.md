@@ -14,3 +14,8 @@ A. 유니티 설계
 B. 아두이노 회로 설계
 
 C. 아두이노 코드 설계 
+
+## Reference 
+
+1. https://rasino.tistory.com/251
+2. 
